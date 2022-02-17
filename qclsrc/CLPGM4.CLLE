@@ -13,9 +13,9 @@
             PGM
 /* CLP # 4 */
 
-            COPYRIGHT  TEXT('(c) 2005-2009 COPYRIGHT UNICOM SYSTEMS, INC.')
-            
-/* Amended in task PRJ30002 */
-            DCL &VAR1 *CHAR 10
+            COPYRIGHT  TEXT('(c) 2005-2022 COPYRIGHT UNICOM SYSTEMS, INC.')
 
+/* Updated in PRJ30001 */
+            DCL &VAR 1 *CHAR 10
+            
             ENDPGM
