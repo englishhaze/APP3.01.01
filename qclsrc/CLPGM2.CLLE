@@ -24,4 +24,7 @@
 /* TST 1.112A */
              SNDPGMMSG  MSG('Added at TST 1.112A') TOPGMQ(*PRV (*))
 
+/* PRJ30001 */
+             SNDPGMMSG  MSG('Added in task reference PRJ30001') TOPGMQ(*PRV (*))
+
              ENDPGM
