@@ -26,5 +26,6 @@
 
 /* PRJ30001 */
              SNDPGMMSG  MSG('Added in task reference PRJ30001') TOPGMQ(*PRV (*))
+             SNDPGMMSG  MSG('Added in task reference PRJ30002') TOPGMQ(*PRV (*))
 
              ENDPGM
