@@ -25,4 +25,8 @@
 
              SNDPGMMSG  MSG('Added at 1.112A - parameter' *BCAT &PARM1)
 
+/* PRJ30001 */
+
+             SNDPGMMSG  MSG('Added in task PRJ30001 - parameter' *BCAT &PARM1)
+
              ENDPGM
