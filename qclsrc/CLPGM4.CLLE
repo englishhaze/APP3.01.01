@@ -17,5 +17,7 @@
 
 /* Updated in PRJ30001 */
             DCL &VAR 1 *CHAR 10
+
+            DCL &VAR1 1 *CHAR 10
             
             ENDPGM
