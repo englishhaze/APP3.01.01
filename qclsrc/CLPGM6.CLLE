@@ -11,14 +11,10 @@
 /* ================================================================ */
 
             PGM
-/* CLP # 5 */
+/* CLP # 6 */
 
             COPYRIGHT  TEXT('(c) 2005-2022 COPYRIGHT UNICOM SYSTEMS, INC.')
 
-            DCL &VAR1 1 *CHAR 10
-            DCL &VAR2 1 *CHAR 10
+            DCL &VAR 1 *CHAR 10
             
-            CHGVAR &VAR1 'XXXXXXXXXX'
-            CHGVAR &VAR2 'XXXXXXXXXX'
-
             ENDPGM
