@@ -34,5 +34,12 @@
              SNDPGMMSG  MSG('Added in task PRJ30001 - parameter' *BCAT &PARM2)
              SNDPGMMSG  MSG('Added in task PRJ30001 - parameter' *BCAT &PARM3)
              SNDPGMMSG  MSG('Added in task PRJ30001 - parameter' *BCAT &PARM4)
+/* PRJ30004 */
+
+             SNDPGMMSG  MSG('Added at PRJ30004 - parameter' *BCAT &PARM1)
+
+/* PRJ30005 */
+
+             SNDPGMMSG  MSG('Added at PRJ30005 - parameter' *BCAT &PARM1)
 
              ENDPGM
