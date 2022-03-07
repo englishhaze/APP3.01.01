@@ -1,0 +1,24 @@
+/* ================================================================ */
+/* � 2005-2009 COPYRIGHT UNICOM SYSTEMS, INC.                       */
+/*                                                                  */
+/* ALL RIGHTS RESERVED                                              */
+/*                                                                  */
+/* THE INFORMATION CONTAINED HEREIN CONSTITUTES AN UNPUBLISHED      */
+/* WORK OF UNICOM SYSTEMS, INC. ALL RIGHTS RESERVED.                */
+/* NO MATERIAL FROM THIS WORK MAY BE REPRINTED,                     */
+/* COPIED, OR EXTRACTED WITHOUT WRITTEN PERMISSION OF               */
+/* UNICOM SYSTEMS, INC.                                             */
+/* ================================================================ */
+
+            PGM
+/* CLP # 5 */
+
+            COPYRIGHT  TEXT('(c) 2005-2022 COPYRIGHT UNICOM SYSTEMS, INC.')
+
+            DCL &VAR1 1 *CHAR 10
+            DCL &VAR2 1 *CHAR 10
+            
+            CHGVAR &VAR1 'XXXXXXXXXX'
+            CHGVAR &VAR2 'XXXXXXXXXX'
+
+            ENDPGM
