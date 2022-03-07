@@ -17,6 +17,7 @@
 
              DCL        VAR(&PARM1) TYPE(*CHAR) LEN(10)
              DCL        VAR(&PARM2) TYPE(*CHAR) LEN(10)
+             DCL        VAR(&PARM3) TYPE(*CHAR) LEN(10)
 
 /* TST 1.111A */
 
@@ -30,5 +31,6 @@
 
              SNDPGMMSG  MSG('Added in task PRJ30001 - parameter' *BCAT &PARM1)
              SNDPGMMSG  MSG('Added in task PRJ30001 - parameter' *BCAT &PARM2)
+             SNDPGMMSG  MSG('Added in task PRJ30001 - parameter' *BCAT &PARM3)
 
              ENDPGM
